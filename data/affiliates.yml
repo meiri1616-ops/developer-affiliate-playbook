@@ -1,0 +1,99 @@
+- id: notion
+  name: "Notion"
+  category: "生产力与团队协作"
+  commission_type: "50% 首次/年度订阅分润"
+  approval_difficulty: "低 (填写个人主页即可)"
+  network_platform: "PartnerStack"
+  payout_methods: "Stripe / PayPal / Direct ACH (Wise)"
+  affiliate_link: "https://affiliate.notion.so"
+  summary: "全球头部知识库与笔记软件。由于开发者群体渗透率极高，推荐团队版升级转化率非常可观，支持多币种结算。"
+
+- id: digitalocean
+  name: "DigitalOcean"
+  category: "云主机与基础计算"
+  commission_type: "$25 现金返现 (用户享 $200 额度)"
+  approval_difficulty: "极低 (注册即可获取邀请码)"
+  network_platform: "官网直推 (In-House)"
+  payout_methods: "PayPal / 抵扣服务器账单"
+  affiliate_link: "https://www.digitalocean.com"
+  summary: "经典独立开发者云服务器。非常适合嵌入开源项目 README 或技术博客的'一键部署服务器'教程中。"
+
+- id: make
+  name: "Make.com"
+  category: "自动化与工作流连接"
+  commission_type: "20% 永久终身循环分成 (Lifetime)"
+  approval_difficulty: "中等 (需说明推广渠道)"
+  network_platform: "PartnerStack"
+  payout_methods: "Stripe / PayPal / Wise"
+  affiliate_link: "https://www.make.com/en/affiliates"
+  summary: "Zapier 的强力平替，支持复杂 API 与 Webhook 串联。只要客户每月购买工作流配额，你就能持续获得月度现金分成。"
+
+- id: beehiiv
+  name: "Beehiiv"
+  category: "出海 Newsletter 与邮件营销"
+  commission_type: "50% 持续分成 (最长 12 个月)"
+  approval_difficulty: "低 (即开即用)"
+  network_platform: "PartnerStack"
+  payout_methods: "Stripe / PayPal"
+  affiliate_link: "https://www.beehiiv.com"
+  summary: "海外最火的创作者邮件平台，单客月费在 $40~$100 不等，推荐一位创作者订阅，每年能为你带来数百美元收益。"
+
+- id: typefully
+  name: "Typefully"
+  category: "社交媒体与推特排版"
+  commission_type: "20% 永久循环分成 (Lifetime)"
+  approval_difficulty: "极低 (官网直接开通)"
+  network_platform: "Rewardful (Stripe底层)"
+  payout_methods: "Wise / PayPal"
+  affiliate_link: "https://typefully.com"
+  summary: "出海独立开发者首选的 X/Threads 写作工具。底层基于 Rewardful，申请秒过审，是典型的优秀 Micro-SaaS 案例。"
+
+- id: resend
+  name: "Resend"
+  category: "开发者交易邮件 API"
+  commission_type: "阶梯佣金 / 免费额度置换"
+  approval_difficulty: "中等 (面向开发者生态)"
+  network_platform: "官网直推 (In-House)"
+  payout_methods: "Stripe / 银行转账"
+  affiliate_link: "https://resend.com"
+  summary: "现代 React 邮件发送框架，开源全栈项目脚手架（Boilerplates）的标配组件，极易在开源代码模版中植入。"
+
+- id: webflow
+  name: "Webflow"
+  category: "高阶无代码建站"
+  commission_type: "50% 持续分成 (最长 12 个月)"
+  approval_difficulty: "中等"
+  network_platform: "PartnerStack"
+  payout_methods: "Stripe / PayPal / Wise"
+  affiliate_link: "https://webflow.com"
+  summary: "客单价极高的设计与前端建站工具。企业版客户订阅单价高，单笔推荐回报可达数百至上千美元。"
+
+- id: wise
+  name: "Wise"
+  category: "跨国银行与资金结汇"
+  commission_type: "约 $65 现金奖励 (每推荐 3 位活跃用户)"
+  approval_difficulty: "极低 (持有账户即可推广)"
+  network_platform: "官网直推 / Impact.com"
+  payout_methods: "Wise 余额秒提现到国内银联/支付宝"
+  affiliate_link: "https://wise.com"
+  summary: "出海人员的资金生命线。向任何想收美元或跨国汇款的开发者推荐，转化阻力极小，奖励直接入账。"
+
+- id: proton
+  name: "Proton"
+  category: "隐私邮箱与安全网络"
+  commission_type: "20%~40% 单笔销售分成"
+  approval_difficulty: "中等"
+  network_platform: "官网专属 / Impact.com"
+  payout_methods: "PayPal / 比特币 / 银行转账"
+  affiliate_link: "https://proton.me"
+  summary: "瑞士隐私大厂全家桶（Mail, VPN, Drive, Pass），极客与隐私倡导者的高认可度选择。"
+
+- id: kinsta
+  name: "Kinsta"
+  category: "高端云托管与 WordPress"
+  commission_type: "高达 $500/单 + 10% 终身循环"
+  approval_difficulty: "中等"
+  network_platform: "官网专属 (In-House)"
+  payout_methods: "PayPal / Wise 转账"
+  affiliate_link: "https://kinsta.com"
+  summary: "高客单价联盟代表。只要推荐一家企业迁移到其托管平台，单笔佣金极其丰厚，业内顶级提成。"
