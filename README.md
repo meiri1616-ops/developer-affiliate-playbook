@@ -2,7 +2,11 @@
 
 # 🛠️ 全球开发者联盟营销完全指南 (Developer Affiliate Playbook)
 
-> **专为程序员与独立开发者打造的被动收入实战手册**  
+<!-- 多语言切换栏 -->
+**Language / 语言切换**:  
+[ 🇨🇳 简体中文 (当前) ](./README.md) · [ 🇭🇰/🇹🇼 繁體中文 ](./README_zh-TW.md) · [ 🇺🇸 English ](./README_en.md) · [ 🇯🇵 日本語 ](./README_ja.md) · [ 🇩🇪 Deutsch ](./README_de.md) · [ 🇪🇸 Español ](./README_es.md)
+> **专为程序员与独立开发者打造的被动收入实战手册**
+
 > 拒绝营销割韭菜 · 死磕 SaaS 循环分成 · 盘活闲置代码资产 · 跨境资金合规结汇
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
