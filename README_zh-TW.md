@@ -13,7 +13,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Telegram Channel](https://img.shields.io/badge/Telegram-出海情報局-2CA5E0?logo=telegram&logoColor=white)](https://t.me/awesomevpnchina)
 
-[📖 閱讀平台橫評深度拆解 (PartnerStack vs Rewardful)](./docs/01-platforms.md) · [💳 查看 Wise 與 W-8BEN 免稅指南](./docs/02-payout-taxes.md)
+[📖 閱讀平台橫評深度拆解 (PartnerStack vs Rewardful)](./docs/zh-TW/)01-platforms.md) · [💳 查看 Wise 與 W-8BEN 免稅指南](./docs/zh-TW/)02-payout-taxes.md)
 
 </div>
 
@@ -30,13 +30,13 @@
 | 排名 / 服務商 | 分類場景 | 佣金分潤模式 | 底層聯盟網路 | 入駐門檻 | 支援收款通道 | 官方直達 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 🥇 **Notion** | 生產力與團隊協作 | **50% 首次/年度訂閱分潤** | `PartnerStack` | 低 (填寫個人主頁即可) | Stripe / PayPal / Direct ACH (Wise) | [官網合作通道](https://affiliate.notion.so) |
-| 🥈 **DigitalOcean** | 雲端主機與基礎計算 | **$25 現金返現 (用戶享 $200 額度)** | `官網直推 (In-House)` | 極低 (註冊即可獲取邀請碼) | PayPal / 抵扣伺服器帳單 | [官網合作通道](https://www.digitalocean.com) |
+| 🥈 **DigitalOcean** | 雲端主機與基礎計算 | **$25 現金回饋 (用戶享 $200 額度)** | `官網直推 (In-House)` | 極低 (註冊即可獲取邀請碼) | PayPal / 抵扣伺服器帳單 | [官網合作通道](https://www.digitalocean.com) |
 | 🥉 **Make.com** | 自動化與工作流連接 | **20% 永久終身循環分潤 (Lifetime)** | `PartnerStack` | 中等 (需說明推廣管道) | Stripe / PayPal / Wise | [官網合作通道](https://www.make.com/en/affiliates) |
 | 4️⃣ **Beehiiv** | 出海 Newsletter 與郵件行銷 | **50%持續分潤 (最長 12 個月)** | `PartnerStack` | 低 (即開即用) | Stripe / PayPal | [官網合作通道](https://www.beehiiv.com) |
 | 5️⃣ **Typefully** | 社群媒體與推特排版 | **20% 永久循環分潤 (Lifetime)** | `Rewardful (Stripe底層)` | 極低 (官網直接開通) | Wise / PayPal | [官網合作通道](https://typefully.com) |
 | 6️⃣ **Resend** | 開發者交易郵件 API | **階梯佣金 / 免費額度置換** | `官網直推 (In-House)` | 中等 (面向開發者生態) | Stripe / 銀行轉帳 | [官網合作通道](https://resend.com) |
-| 7️⃣ **Webflow** | 高階無程式碼建站 | **50% 持續分潤 (最長 12 個月)** | `PartnerStack` | 中等 | Stripe / PayPal / Wise | [官網合作通道](https://webflow.com) |
-| 8️⃣ **Wise** | 跨國銀行與資金結匯 | **約 $65 現金獎勵 (每推薦 3 位活躍用戶)** | `官網直推 / Impact.com` | 極低 (持有帳戶即可推廣) | Wise 餘額秒出金到國內銀聯/支付寶 | [官網合作通道](https://wise.com) |
+| 7️⃣ **Webflow** | 高階無程式碼建站 | **50%持續分潤 (最長 12 個月)** | `PartnerStack` | 中等 | Stripe / PayPal / Wise | [官網合作通道](https://webflow.com) |
+| 8️⃣ **Wise** | 跨國銀行與資金結匯 | **約 $65 現金獎勵 (每推薦 3 位活躍用戶)** | `官網直推 / Impact.com` | 極低 (持有帳戶即可推廣) | Wise 餘額秒提現到國內銀聯/支付寶 | [官網合作通道](https://wise.com) |
 | 9️⃣ **Proton** | 隱私信箱與安全網路 | **20%~40% 單筆銷售分潤** | `官網專屬 / Impact.com` | 中等 | PayPal / 比特幣 / 銀行轉帳 | [官網合作通道](https://proton.me) |
 | 🔟 **Kinsta** | 高端雲端代管與 WordPress | **高達 $500/單 + 10% 終身循環** | `官網專屬 (In-House)` | 中等 | PayPal / Wise 轉帳 | [官網合作通道](https://kinsta.com) |
 
@@ -44,12 +44,12 @@
 
 ## 🧭 四大實操章節（端到端完整閉環）
 
-* [**第一章：全球主流聯盟平台橫評與避坑 (PartnerStack vs Rewardful vs Impact)**](./docs/01-platforms.md)
+* [**第一章：全球主流聯盟平台橫評與避坑 (PartnerStack vs Rewardful vs Impact)**](./docs/zh-TW/)01-platforms.md)
   * 解析為什麼 SaaS 首選 PartnerStack，獨立小工具底層全是 Rewardful，以及官網底部的「找詞大法」。
-* [**第二章：跨境收款通道橫評與 W-8BEN 合規免稅指南 (Wise vs PayPal)**](./docs/02-payout-taxes.md)
+* [**第二章：跨境收款通道橫評與 W-8BEN 合規免稅指南 (Wise vs PayPal)**](./docs/zh-TW/)02-payout-taxes.md)
   * 掌握「平台 $	o$ Wise ACH $	o$ 國內支付寶秒級到帳」零損耗流水線，手把手教你填 W-8BEN 將 30% 扣稅降為 0%。
 * **第三章：程式設計師閒置資產盤活指南 (變現實戰)**
-  * **開源專案 README**：如何優雅植入 `Powered by` 徽章；
+  * **開源專案 README**：如何優雅植入 `Powered by` 徽標；
   * **個人部落格 `/uses` 頁面**：轉換率高達 5%~10% 的極客軟硬體清單；
   * **全端程式碼鷹架 (Boilerplate)**：預置郵件、資料庫與認證服務，直接賺取下游分潤。
 
@@ -70,11 +70,11 @@
 
 ### 🥈 DigitalOcean (雲端主機與基礎計算)
 
-- **佣金結構**：`$25 現金返現 (用戶享 $200 額度)`
+- **佣金結構**：`$25 現金回饋 (用戶享 $200 額度)`
 - **底層聯盟網路**：官網直推 (In-House)
 - **准入門檻**：極低 (註冊即可獲取邀請碼)
 - **支援收款方式**：PayPal / 抵扣伺服器帳單
-- **核心解析**：經典獨立開發者雲伺服器。非常適合嵌入開源專案 README 或技術部落格的'一鍵部署伺服器'教學中。
+- **核心解析**：經典獨立開發者雲端伺服器。非常適合嵌入開源專案 README 或技術部落格的「一鍵部署伺服器」教學中。
 - 🔗 **官方入駐通道**：[前往 DigitalOcean 官方合作計畫](https://www.digitalocean.com)
 
 ---
@@ -92,7 +92,7 @@
 
 ### 4️⃣ Beehiiv (出海 Newsletter 與郵件行銷)
 
-- **佣金結構**：`50% 持續分潤 (最長 12 個月)`
+- **佣金結構**：`50%持續分潤 (最長 12 個月)`
 - **底層聯盟網路**：PartnerStack
 - **准入門檻**：低 (即開即用)
 - **支援收款方式**：Stripe / PayPal
@@ -118,14 +118,14 @@
 - **底層聯盟網路**：官網直推 (In-House)
 - **准入門檻**：中等 (面向開發者生態)
 - **支援收款方式**：Stripe / 銀行轉帳
-- **核心解析**：現代 React 郵件發送框架，開源全端專案鷹架（Boilerplates）的標配組件，極易在開源程式碼模版中植入。
+- **核心解析**：現代 React 郵件發送框架，開源全端專案鷹架（Boilerplates）的標配元件，極易在開源程式碼範本中植入。
 - 🔗 **官方入駐通道**：[前往 Resend 官方合作計畫](https://resend.com)
 
 ---
 
 ### 7️⃣ Webflow (高階無程式碼建站)
 
-- **佣金結構**：`50% 持續分潤 (最長 12 個月)`
+- **佣金結構**：`50%持續分潤 (最長 12 個月)`
 - **底層聯盟網路**：PartnerStack
 - **准入門檻**：中等
 - **支援收款方式**：Stripe / PayPal / Wise
@@ -139,7 +139,7 @@
 - **佣金結構**：`約 $65 現金獎勵 (每推薦 3 位活躍用戶)`
 - **底層聯盟網路**：官網直推 / Impact.com
 - **准入門檻**：極低 (持有帳戶即可推廣)
-- **支援收款方式**：Wise 餘額秒出金到國內銀聯/支付寶
+- **支援收款方式**：Wise 餘額秒提現到國內銀聯/支付寶
 - **核心解析**：出海人員的資金生命線。向任何想收美元或跨國匯款的開發者推薦，轉換阻力極小，獎勵直接入帳。
 - 🔗 **官方入駐通道**：[前往 Wise 官方合作計畫](https://wise.com)
 
