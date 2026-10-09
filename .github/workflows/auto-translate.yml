@@ -1,16 +1,17 @@
 name: Auto Multi-Language Sync
 
 on:
-  workflow_dispatch: # 支持后台手动一键点击运行
+  workflow_dispatch: # 支持在 GitHub 后台手动一键点击运行
   push:
     paths:
-      - 'README.md' # 每次中文主页有改动时自动触发同步
+      - 'README.md'      # 修改中文主页时自动触发同步
+      - 'docs/*.md'      # 修改任何中文子章节时自动触发同步
 
 jobs:
   translate:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write # 必须开启写入权限，用于保存多语言主页与所有子章节
 
     steps:
       - name: Checkout Repository
@@ -33,5 +34,6 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add README_*.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "docs: auto-sync multi-language versions via Gemini [skip ci]" && git push)
+          # 同时添加所有多语言主页以及 docs 目录下的所有外语子章节
+          git add README_*.md docs/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "docs: auto-sync all chapters and languages via Gemini [skip ci]" && git push)
